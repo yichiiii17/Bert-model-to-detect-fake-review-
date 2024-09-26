@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,Specificity,F1,Best_Params
+RF,0.724038138,0.741134379,0.658267305,0.787036998,0.690565867,[{'n_estimators': 400}]
+ADA,0.732388941,0.725812911,0.721857249,0.742494464,0.720592689,"[{'learning_rate': 0.3, 'n_estimators': 400}]"
+XGB,0.750432952,0.753413733,0.725160951,0.774650891,0.73557945,"[{'learning_rate': 0.05, 'max_depth': 5, 'n_estimators': 300, 'subsample': 0.8}]"
